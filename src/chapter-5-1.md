@@ -1,5 +1,3 @@
-Contract Review and Analysis
-===================================================================
 
 Contracts are an integral part of the legal profession, but reviewing and analyzing them can be a time-consuming and labor-intensive process. Artificial intelligence (AI) is now being used to automate much of this work, making contract review and analysis faster and more efficient.
 

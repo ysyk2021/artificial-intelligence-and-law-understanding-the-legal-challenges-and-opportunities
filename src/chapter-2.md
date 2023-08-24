@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Artificial intelligence (AI) has become an integral part of many fields, including law. In this chapter, we explore the history of artificial intelligence, types of AI, and machine learning techniques.
 

@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 In this chapter, we will explore the fundamental concepts and techniques of artificial intelligence (AI), with a focus on machine learning. We will discuss various machine learning models and algorithms used in AI, including supervised and unsupervised learning, deep learning, and reinforcement learning.
 

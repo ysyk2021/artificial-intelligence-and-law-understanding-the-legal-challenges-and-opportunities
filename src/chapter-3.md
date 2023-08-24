@@ -1,5 +1,3 @@
-Chapter 3: Legal Landscape
-==========================
 
 The legal landscape is complex and varied, with different legal systems and traditions around the world. In this chapter, we explore some global trends in law and legal services and the components of the legal system.
 

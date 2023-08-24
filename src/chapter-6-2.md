@@ -1,5 +1,3 @@
-Legal Framework
-=========================================================================
 
 As artificial intelligence (AI) continues to transform the legal profession, there is a growing need for clear and comprehensive legal frameworks to govern its use. In this chapter, we will explore some of the key legal considerations surrounding the use of AI in law.
 

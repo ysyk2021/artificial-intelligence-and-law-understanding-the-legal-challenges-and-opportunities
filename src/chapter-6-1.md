@@ -1,5 +1,3 @@
-Ethics of Using AI in Law
-===================================================================================
 
 As artificial intelligence (AI) begins to play an increasingly important role in law and legal practice, it is crucial that we consider the ethical and legal implications of these technologies. In this chapter, we will explore some of the key ethical considerations surrounding the use of AI in law.
 

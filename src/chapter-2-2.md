@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 In this chapter, we will explore the different types of artificial intelligence (AI) and their applications. We will discuss the various categories of AI, including narrow or weak AI, general or strong AI, and artificial superintelligence.
 

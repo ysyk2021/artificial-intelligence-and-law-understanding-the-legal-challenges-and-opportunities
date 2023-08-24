@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 In this chapter, we will explore the history of artificial intelligence (AI) and its evolution as a field of study. We will discuss the key milestones in the development of AI, from its early beginnings to its current state.
 

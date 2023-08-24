@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 In recent years, artificial intelligence (AI) has emerged as a transformative technology with the potential to revolutionize various areas of human activity, including law. AI systems are already being used in legal practice to conduct legal research, analyze contracts, and predict litigation outcomes, among other applications.
 

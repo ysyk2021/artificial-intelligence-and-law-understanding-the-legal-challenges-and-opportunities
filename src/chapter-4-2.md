@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Law
-=====================================================================
 
 While AI technologies have the potential to revolutionize the legal profession, there are also significant challenges and limitations that must be addressed. In this chapter, we'll discuss the role of AI in law and explore the challenges and limitations of using AI technologies in the legal field.
 

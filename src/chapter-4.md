@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Law
-============================
 
 Artificial intelligence (AI) has the potential to transform the field of law by enhancing its efficiency, accuracy, and accessibility. In this chapter, we explore the benefits and challenges of AI's role in law.
 

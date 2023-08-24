@@ -1,5 +1,3 @@
-E-Discovery and Litigation Support
-=========================================================================
 
 In recent years, artificial intelligence (AI) has started to transform the field of e-discovery and litigation support. With the exponential growth of data in the legal world, AI-powered tools are becoming increasingly important for managing, reviewing, and analyzing vast amounts of electronic information.
 

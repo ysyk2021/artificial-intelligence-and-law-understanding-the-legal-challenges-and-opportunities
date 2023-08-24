@@ -1,5 +1,3 @@
-Benefits of AI in Law
-===================================================
 
 Artificial intelligence (AI) is transforming the way legal services are delivered and has the potential to revolutionize the legal profession. In this chapter, we will explore the benefits of AI in law, including increased efficiency, improved accuracy, and greater access to justice.
 

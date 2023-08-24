@@ -1,5 +1,3 @@
-Legal Research and Predictive Analytics
-==============================================================================
 
 One of the most promising applications of artificial intelligence (AI) in law is in the area of legal research and predictive analytics. In this chapter, we will explore some of the key ways that AI is being used to enhance legal research and prediction, and the potential benefits and challenges associated with these technologies.
 

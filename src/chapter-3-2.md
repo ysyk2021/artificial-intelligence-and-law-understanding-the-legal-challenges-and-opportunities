@@ -1,5 +1,3 @@
-Components of the Legal System
-==========================================================
 
 The legal landscape surrounding artificial intelligence (AI) is complex and multifaceted. In order to understand the legal challenges and opportunities presented by intelligent technologies, it is necessary to first understand the various components of the legal system. In this chapter, we will explore the key components of the legal system as they relate to AI, including laws, regulations, and legal precedent.
 

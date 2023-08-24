@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial Intelligence (AI) has become a buzzword in recent years, and its application is rapidly expanding across various industries. The legal profession is not immune to this trend, as AI is being increasingly used to assist lawyers and judges in their work. At the same time, AI poses significant challenges to the legal system, including questions of accountability, transparency, and bias.
 

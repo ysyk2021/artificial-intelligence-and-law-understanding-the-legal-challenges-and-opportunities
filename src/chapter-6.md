@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Law
-========================================================
 
 The use of artificial intelligence (AI) in law raises a range of ethical and legal issues that must be carefully considered. In this chapter, we examine some of these issues and explore potential solutions.
 

@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Law
-===============================
 
 As artificial intelligence (AI) continues to evolve, its impact on the field of law is likely to increase. In this chapter, we explore some emerging trends and future prospects for AI in law.
 

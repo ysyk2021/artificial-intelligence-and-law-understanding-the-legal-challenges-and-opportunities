@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Legal Solutions
-=====================================
 
 Artificial intelligence (AI) is transforming the way legal professionals work by providing them with advanced tools and technologies that can assist with contract review, legal research, predictive analytics, e-discovery, and litigation support. In this chapter, we explore some of these AI-powered legal solutions.
 

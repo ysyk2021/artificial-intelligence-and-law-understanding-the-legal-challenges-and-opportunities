@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Law
-====================================================================
 
 In this chapter, we provide an overview of artificial intelligence (AI) and its applications in the field of law. We will discuss the various ways in which AI can assist legal professionals and improve legal practice, as well as the challenges and concerns raised by the integration of AI into the legal system.
 

@@ -1,5 +1,3 @@
-Global Trends in Law and Legal Services
-===================================================================
 
 As artificial intelligence (AI) continues to transform industries and society, the legal profession is no exception. In this chapter, we will explore global trends in law and legal services that are being shaped by AI, including the use of AI in legal research and analysis, the development of new legal technologies, and the potential impact of these trends on the legal profession.
 
