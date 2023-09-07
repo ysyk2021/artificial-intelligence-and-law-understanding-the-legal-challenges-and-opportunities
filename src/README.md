@@ -12,3 +12,7 @@ The third section of the book will examine the challenges of regulating AI in th
 Overall, this book aims to provide a comprehensive overview of the legal challenges and opportunities presented by AI. It will be of interest to lawyers, policymakers, and anyone interested in the impact of AI on the legal system.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
