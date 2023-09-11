@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) encompasses a diverse range of technologies and approaches that aim to mimic or replicate human intelligence. In this chapter, we will explore the various types of AI and their implications in the legal domain.
 

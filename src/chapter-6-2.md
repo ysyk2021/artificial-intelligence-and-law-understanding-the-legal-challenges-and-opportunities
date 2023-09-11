@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) and related technologies continue to advance, it is becoming increasingly important for legal systems around the world to adapt to these changes. In this chapter, we will explore the current state of the legal framework surrounding AI and its various applications.
 

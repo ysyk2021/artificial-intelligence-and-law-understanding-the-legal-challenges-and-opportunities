@@ -1,5 +1,4 @@
-Chapter: Ethics of Using AI in Law
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of artificial intelligence (AI) into the field of law presents unique ethical considerations and challenges. In this chapter, we will explore some of the key ethical issues that arise when using AI in the legal system and the importance of addressing them.
 

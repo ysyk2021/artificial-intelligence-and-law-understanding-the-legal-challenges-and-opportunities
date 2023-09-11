@@ -1,5 +1,4 @@
-Chapter: Components of the Legal System
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The legal system is a complex framework that regulates and governs society by setting rules, resolving disputes, and ensuring justice. In this chapter, we will explore the key components of the legal system and their roles in upholding the rule of law.
 

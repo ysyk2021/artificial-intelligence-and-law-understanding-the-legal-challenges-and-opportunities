@@ -1,5 +1,4 @@
-Chapter: History of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has a rich and fascinating history that spans several decades. In this chapter, we will explore the key milestones and breakthroughs that have shaped the development of AI technologies and paved the way for their integration into the field of law.
 

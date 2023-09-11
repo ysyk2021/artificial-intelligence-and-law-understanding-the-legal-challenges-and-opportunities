@@ -1,5 +1,4 @@
-Chapter: Machine Learning Techniques
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Machine learning has emerged as a powerful tool within artificial intelligence (AI), enabling computers to learn from data and make predictions or decisions. In this chapter, we will explore the key machine learning techniques used in the legal domain and their applications.
 

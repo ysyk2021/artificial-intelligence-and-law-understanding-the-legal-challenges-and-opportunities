@@ -1,5 +1,4 @@
-Chapter: Benefits of AI in Law
-==============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has the potential to revolutionize the field of law, offering numerous benefits that can enhance efficiency, accuracy, and access to justice. In this chapter, we will explore some of the key advantages of integrating AI into the legal system.
 

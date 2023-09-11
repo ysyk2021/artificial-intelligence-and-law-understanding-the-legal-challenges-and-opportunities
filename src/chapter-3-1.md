@@ -1,5 +1,4 @@
-Chapter: Global Trends in Law and Legal Services
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The field of law and legal services is undergoing significant transformations due to the emergence of new technologies and evolving global dynamics. In this chapter, we will explore some of the key global trends shaping the future of law and legal services.
 
